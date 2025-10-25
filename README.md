@@ -39,6 +39,7 @@ void delay()
 
 # OUTPUT 
 
+<img width="1700" height="873" alt="image" src="https://github.com/user-attachments/assets/c044b7ed-76a0-481b-81a2-2a98bb5afea2" />
 
 
 
